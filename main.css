@@ -15,7 +15,6 @@ body {
 }
 
 #outerheader {
-	width: 100%;
 	height: 64px;
 	display: flex;
 	justify-content: center;
