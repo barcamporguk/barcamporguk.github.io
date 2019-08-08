@@ -6,6 +6,8 @@ html {
 }
 
 body {
+	width: 100%;
+	margin: 0px;
 	background-color: #ACCBE5;
 	background-image: linear-gradient(180deg, white, #B8D8F2 20%, #ACCBE5);
 	height: 98%;
