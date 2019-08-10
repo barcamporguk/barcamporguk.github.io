@@ -68,7 +68,7 @@ body {
 	left: 50%;
 }
 
-.bclist li a {
+.bclist a li {
 	text-decoration: none;
 	color: black;
 }
