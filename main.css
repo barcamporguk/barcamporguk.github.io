@@ -73,12 +73,14 @@ body {
 	color: black;
 }
 
-.bclist #bcristol {
+.bclist #bcbristol {
+	background-image: url(images/barcamp_bristol_logo.png);
 	margin-left: 25px;
 	margin-top: 490px;
 }
 
 .bclist #bcbrum {
+	background-image: url(images/barcamp_brum_logo.png);
 	margin-left: 50px;
 	margin-top: 415px;
 }
