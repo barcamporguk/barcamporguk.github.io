@@ -72,6 +72,12 @@ body {
 	color: black;
 }
 
+.bclist #bcbelfast {
+	background-image: url(images/barcamp_belfast_logo.png);
+	margin-left: -90px;
+	margin-top: 300px;
+}
+
 .bclist #bcbristol {
 	background-image: url(images/barcamp_bristol_logo.png);
 	margin-left: 25px;
