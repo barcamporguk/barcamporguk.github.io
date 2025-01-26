@@ -80,8 +80,13 @@ body {
 
 .bclist #bcbristol {
 	background-image: url(images/barcamp_bristol_logo.png);
-	margin-left: 25px;
-	margin-top: 490px;
+	margin-left: -25px;
+	margin-top: 480px;
+	background-position: right;
+	padding-left: 0px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+
 }
 
 .bclist #bcbrum {
@@ -114,6 +119,12 @@ body {
 	margin-top: 270px;
 }
 
+.bclist #bcsurrey {
+	background-image: url(images/barcamp_surrey_logo.png);
+	margin-left: 80px;
+	margin-top: 495px;
+}
+
 .bclist #bcsouthampton {
 	background-image: url(images/barcamp_southampton_logo.png);
 	margin-left: 65px;
@@ -128,7 +139,6 @@ body {
 	padding-left: 0px;
 	padding-right: 20px;
 	padding-top: 16px;
-
 }
 
 .lowerright {
